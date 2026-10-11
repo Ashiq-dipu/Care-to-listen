@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sub-101",
+    "title": "The Neurobiology of Compassion Fatigue: When Caring Hurts",
+    "category": "Neuroscience",
+    "duration": "55 min",
+    "guest": {
+      "name": "Dr. Kenji Sato",
+      "role": "Neuroscientist & Trauma Clinician",
+      "email": "kenji.sato@neurocare.org",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80",
+      "bio": "Director of the Cognitive Resilience Institute. Researches autonomic nervous system burnout in first responders and therapists."
+    },
+    "summary": "Exploring why frontline caregivers experience emotional numbness, the vagal nerve mechanics behind secondary trauma, and daily neuro-somatic resets.",
+    "takeaways": [
+      "Compassion fatigue is physiological downregulation, not a moral failure.",
+      "The 3-minute bilateral stimulation technique for emergency resetting.",
+      "How to build clinical boundaries that preserve empathy."
+    ],
+    "audioUrl": "",
+    "status": "approved",
+    "submittedAt": "2026-10-10T14:30:00.000Z",
+    "updatedAt": "2026-10-11T12:52:05.103Z"
+  },
+  {
+    "id": "sub-102",
+    "title": "Unspoken Grief: Navigating Ambiguous Loss in Family Caregiving",
+    "category": "Grief",
+    "duration": "48 min",
+    "guest": {
+      "name": "Elena Vance, MSW",
+      "role": "Palliative Care Counselor & Essayist",
+      "email": "elena.vance@caregivingjournal.com",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
+      "bio": "Specializes in dementia caregiver support and chronic illness bereavement. Author of 'The Living Goodbye'."
+    },
+    "summary": "A compassionate dialogue on the psychological weight of grieving someone who is still physically present, such as in progressive cognitive decline.",
+    "takeaways": [
+      "Defining ambiguous loss and freeing families from caregiver guilt.",
+      "Creating micro-rituals of acknowledgment within everyday care routines.",
+      "Communicating through non-verbal somatic presence when memory fades."
+    ],
+    "audioUrl": "",
+    "status": "pending",
+    "submittedAt": "2026-10-11T09:15:00.000Z"
+  }
+]
